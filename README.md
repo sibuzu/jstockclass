@@ -5,6 +5,9 @@
     *   [常用名詞](#names)
     *   [例子](#examples)
 
+*   [交易知識](#trade)
+    *   [當沖](#daytrade)
+
 <!--
     *   [行內 HTML](#html)
     *   [特殊字元自動轉換](#autoescape)
@@ -110,7 +113,7 @@
 
 ![例子二](images/jstock2.gif)
 
-<h2 id="trades">交易知識</h2>
+<h2 id="trade">交易知識</h2>
 
 <h3 id="daytrade">當沖</h3>
 
